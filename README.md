@@ -14,9 +14,10 @@ Use statistical measures and conditional logic to categorize and rank students.
 
 Identify at-risk students and uncover underperforming patterns despite high effort.
 
-Prepare data for visualization tools (e.g., Tableau, Power BI) to present insights.
+Prepare data for visualization tools (e.g., Tableau, Python) to present insights.
 
 🧱 Database Structure
+
 The project includes the following key tables:
 
 Student: Demographics including age, gender, and ethnicity.
@@ -29,29 +30,10 @@ ExtracurricularActivities: Participation in activities such as sports, music, an
 
 AcademicPerformance: GPA and class performance data.
 
-Plus supporting tables like AbsenceWarnings and optional course/department info.
+Plus supporting tables like AbsenceWarnings.
 
-📈 Analytical Highlights
-GPA trends by gender, parental education, and tutoring.
-
-Effects of study time and absences on performance.
-
-Ranking students by GPA and effort.
-
-Identifying students with mismatched effort vs. outcomes.
-
-Use of triggers to automate warnings for excessive absences.
-
-Pairwise analysis of students with similar GPAs but different activity profiles.
-
-📁 Files Included
-schema.sql: SQL scripts for creating database tables.
-
-student_analysis.sql: A collection of over 20 insightful SQL queries.
-
-(Optional) Visualizations or dashboards (if added later).
 
 🛠️ Tools Used
 SQL (MySQL/PostgreSQL compatible)
 
-(Optional) Tableau / Power BI / Jupyter Notebook for visualization
+Tableau / Jupyter Notebook for visualization
