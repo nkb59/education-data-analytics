@@ -17,6 +17,8 @@ Identify at-risk students and uncover underperforming patterns despite high effo
 
 Prepare data for visualization tools (e.g., Tableau, Python) to present insights.
 
+
+
 🧱 Database Structure
 
 The project includes the following key tables:
@@ -34,7 +36,9 @@ AcademicPerformance: GPA and class performance data.
 Plus supporting tables like AbsenceWarnings.
 
 
+
 🛠️ Tools Used
+
 SQL (MySQL/PostgreSQL compatible)
 
 Tableau / Jupyter Notebook for visualization
