@@ -1,6 +1,7 @@
 # education-data-analytics
 
 📊 Educational Metrics SQL & Visualization Project
+
 This project explores and analyzes an educational dataset using SQL for data modeling, querying, and analytical insights. It focuses on student performance, study habits, parental involvement, and extracurricular activities to uncover patterns and relationships that impact academic outcomes.
 
 🔍 Project Objectives
